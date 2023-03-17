@@ -1,1 +1,5 @@
-hello world
+<?php
+$a=19;
+$b=50;
+echo $a +$b;
+?>
