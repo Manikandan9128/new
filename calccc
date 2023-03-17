@@ -1,1 +1,6 @@
-hello world
+<?php 
+$a =7;
+$b=90;
+$c= $a+$b;
+echo $c;
+?>
